@@ -1,4 +1,4 @@
-# 📚 Online-Book-Store-Application
+![Screenshot 2025-04-11 221115](https://github.com/user-attachments/assets/cb13be24-32d3-460b-9637-c73dd2a50ab7)# 📚 Online-Book-Store-Application
 
 The Online Book Store Application is a Java-based web platform designed to solve the real-world problem of limited access to physical bookstores and the time-consuming process of book shopping. It provides users with a convenient way to browse, search, and purchase books online, making reading more accessible and efficient. This system addresses the need for 24/7 book availability, easy discovery of titles, and a smooth buying experience from anywhere this is a Java-based web application that allows users to browse, search, and purchase books online. It includes user registration/login, book listings, shopping cart functionality, and order management. Admins can manage inventory and handle orders through a dedicated admin panel. The project aims to provide an easy and efficient way to buy and sell books online.
 
@@ -56,7 +56,37 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 ## 📸 Screenshot:-
 
----
+![Screenshot 2025-04-11 220202](https://github.com/user-attachments/assets/d331ef0f-73ca-432e-87fa-64cc0f4c3c60)
+
+![Screenshot 2025-04-11 220232](https://github.com/user-attachments/assets/7b7ee656-9c20-48c6-96e1-ca74182338df)
+
+![Screenshot 2025-04-12 172716](https://github.com/user-attachments/assets/32574367-8a3d-4f3d-8b57-038d721afb92)
+
+![Screenshot 2025-04-11 220220](https://github.com/user-attachments/assets/eea4d376-9b60-4318-b394-28abfefbf048)
+
+![Screenshot 2025-04-11 220249](https://github.com/user-attachments/assets/72fac551-8b7e-422f-85c1-d8ff60b8ca98)
+
+![Screenshot 2025-04-11 220657](https://github.com/user-attachments/assets/db43f1ea-c687-412c-8720-b213227d591f)
+
+![Screenshot 2025-04-11 220720](https://github.com/user-attachments/assets/5b3005f2-a4bf-4b0f-851b-a95739d9c43a)
+
+![Screenshot 2025-04-11 220730](https://github.com/user-attachments/assets/41cb3d7e-b7b1-4c74-86fc-fa0921aa0d03)
+
+![Screenshot 2025-04-11 220749](https://github.com/user-attachments/assets/a232ee25-0026-4c18-a7ab-22da506991fc)
+
+![Screenshot 2025-04-11 220803](https://github.com/user-attachments/assets/7f3311c7-b7a2-443d-ae3a-98287995f051)
+
+![Screenshot 2025-04-11 221041](https://github.com/user-attachments/assets/a9caa54a-859e-4c8d-9d0a-160187cdff99)
+
+![Screenshot 2025-04-11 221029](https://github.com/user-attachments/assets/7cbfa0ac-c5b5-4b85-ba0e-d569b26ae8e5)
+
+![Screenshot 2025-04-11 221059](https://github.com/user-attachments/assets/59485e53-d681-4d41-9e2d-48eb9ef1bde4)
+
+![Screenshot 2025-04-11 221115](https://github.com/user-attachments/assets/30610cfb-87aa-40a0-8d5d-5ad48fdd71d8)
+
+![Screenshot 2025-04-11 221127](https://github.com/user-attachments/assets/52f22590-d5e9-470d-9f88-c84bacf6e278)
+
+
 
 ## ================ 💻 Software And Tools Required ================
 - : Java JDK 8+ 
@@ -70,7 +100,36 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 ## ================= 🗄️ MySQL Database =================
 
+### Copy and Run in MySQL Workbench
 
+```
+create database if not exists onlinebookstore;
+
+use onlinebookstore;
+
+create table if not exists books(barcode varchar(100) primary key, name varchar(100), author varchar(100), price int, quantity int);
+
+create table if not exists users(username varchar(100) primary key,password varchar(100), firstname varchar(100),
+    lastname varchar(100),address text, phone varchar(100),mailid varchar(100),usertype int);
+
+insert into books values('9780134190563','The Go Programming Language','Alan A. A. Donovan and Brian W. Kernighan',400,8);
+insert into books values('9780133053036','C++ Primer','Stanley Lippman and Josée Lajoie and Barbara Moo',976,13);
+insert into books values('9781718500457','The Rust Programming Language','Steve Klabnik and Carol Nichols',560,12);
+insert into books values('9781491910740','Head First Java','Kathy Sierra and Bert Bates and Trisha Gee',754,23);
+insert into books values('9781492056300','Fluent Python','Luciano Ramalho',1014,5);
+insert into books values('9781720043997','The Road to Learn React','Robin Wieruch',239,18);
+insert into books values('9780132350884','Clean Code: A Handbook of Agile Software Craftsmanship','Robert C Martin',288,3);
+insert into books values('9780132181273','Domain-Driven Design','Eric Evans',560,28);
+insert into books values('9781951204006','A Programmers Guide to Computer Science','William Springer',188,4);
+insert into books values('9780316204552','The Soul of a New Machine','Tracy Kidder',293,30);
+insert into books values('9780132778046','Effective Java','Joshua Bloch',368,21);
+insert into books values('9781484255995','Practical Rust Projects','Shing Lyu',257,15);
+insert into users values('Pratik','password','Pratik','Khot','Mumbai','42502216225','pratikkhot@gmail.com',2);
+insert into users values('Admin','Admin','Admin','BookStore','Mumbai','9584552224521','admin@gmail.com',1);
+
+commit;
+
+```
 
 ---
 
