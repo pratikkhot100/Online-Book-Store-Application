@@ -76,6 +76,10 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 ![Screenshot 2025-04-11 220803](https://github.com/user-attachments/assets/7f3311c7-b7a2-443d-ae3a-98287995f051)
 
+![Screenshot 2025-04-11 221518](https://github.com/user-attachments/assets/33b52619-e2eb-4922-a70a-8df2c1df8342)
+
+![Screenshot 2025-04-11 221537](https://github.com/user-attachments/assets/49b846f0-d30b-4eb9-9760-cf93cafe71a3)
+
 ![Screenshot 2025-04-11 221041](https://github.com/user-attachments/assets/a9caa54a-859e-4c8d-9d0a-160187cdff99)
 
 ![Screenshot 2025-04-11 221029](https://github.com/user-attachments/assets/7cbfa0ac-c5b5-4b85-ba0e-d569b26ae8e5)
