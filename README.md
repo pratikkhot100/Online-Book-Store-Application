@@ -1,4 +1,4 @@
-![Screenshot 2025-04-11 221115](https://github.com/user-attachments/assets/cb13be24-32d3-460b-9637-c73dd2a50ab7)# 📚 Online-Book-Store-Application
+# 📚 Online-Book-Store-Application
 
 The Online Book Store Application is a Java-based web platform designed to solve the real-world problem of limited access to physical bookstores and the time-consuming process of book shopping. It provides users with a convenient way to browse, search, and purchase books online, making reading more accessible and efficient. This system addresses the need for 24/7 book availability, easy discovery of titles, and a smooth buying experience from anywhere this is a Java-based web application that allows users to browse, search, and purchase books online. It includes user registration/login, book listings, shopping cart functionality, and order management. Admins can manage inventory and handle orders through a dedicated admin panel. The project aims to provide an easy and efficient way to buy and sell books online.
 
@@ -60,11 +60,11 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 ![Screenshot 2025-04-11 220232](https://github.com/user-attachments/assets/7b7ee656-9c20-48c6-96e1-ca74182338df)
 
-![Screenshot 2025-04-12 172716](https://github.com/user-attachments/assets/32574367-8a3d-4f3d-8b57-038d721afb92)
+![Screenshot 2025-04-11 220249](https://github.com/user-attachments/assets/72fac551-8b7e-422f-85c1-d8ff60b8ca98)
+
+![Screenshot 2025-04-12 172716](https://github.com/user-attachments/assets/cc154d65-5ce7-4a5a-a1cf-be2ccced8095)
 
 ![Screenshot 2025-04-11 220220](https://github.com/user-attachments/assets/eea4d376-9b60-4318-b394-28abfefbf048)
-
-![Screenshot 2025-04-11 220249](https://github.com/user-attachments/assets/72fac551-8b7e-422f-85c1-d8ff60b8ca98)
 
 ![Screenshot 2025-04-11 220657](https://github.com/user-attachments/assets/db43f1ea-c687-412c-8720-b213227d591f)
 
