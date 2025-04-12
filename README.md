@@ -54,43 +54,81 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 ---  
 
-## 📸 Screenshot:-
+## 📸 Some Screenshots for the project:
 
+### 👤 User Role
+
+- Home
+  
 ![Screenshot 2025-04-11 220202](https://github.com/user-attachments/assets/d331ef0f-73ca-432e-87fa-64cc0f4c3c60)
 
+- Login
+  
 ![Screenshot 2025-04-11 220220](https://github.com/user-attachments/assets/eea4d376-9b60-4318-b394-28abfefbf048)
 
+- When double tab on login display this
+  
 ![Screenshot 2025-04-11 220232](https://github.com/user-attachments/assets/7b7ee656-9c20-48c6-96e1-ca74182338df)
 
+- Registration
+  
 ![Screenshot 2025-04-11 220249](https://github.com/user-attachments/assets/72fac551-8b7e-422f-85c1-d8ff60b8ca98)
 
+- User Registered Successfully
+  
 ![Screenshot 2025-04-12 172716](https://github.com/user-attachments/assets/cc154d65-5ce7-4a5a-a1cf-be2ccced8095)
 
+- User Login
+  
 ![Screenshot 2025-04-11 220657](https://github.com/user-attachments/assets/db43f1ea-c687-412c-8720-b213227d591f)
 
+- Available Books
+  
 ![Screenshot 2025-04-11 220720](https://github.com/user-attachments/assets/5b3005f2-a4bf-4b0f-851b-a95739d9c43a)
 
 ![Screenshot 2025-04-11 220730](https://github.com/user-attachments/assets/41cb3d7e-b7b1-4c74-86fc-fa0921aa0d03)
 
+- Add To cart
+  
 ![Screenshot 2025-04-11 220749](https://github.com/user-attachments/assets/a232ee25-0026-4c18-a7ab-22da506991fc)
 
+- Cart
+  
 ![Screenshot 2025-04-11 220803](https://github.com/user-attachments/assets/7f3311c7-b7a2-443d-ae3a-98287995f051)
 
+- When Click Proceed Pay Button Redirect Cart Checkout Page
+  
 ![Screenshot 2025-04-11 221518](https://github.com/user-attachments/assets/33b52619-e2eb-4922-a70a-8df2c1df8342)
 
+- Your Orders
+  
 ![Screenshot 2025-04-11 221537](https://github.com/user-attachments/assets/49b846f0-d30b-4eb9-9760-cf93cafe71a3)
 
+---
+
+### 🛡️ Admin Role
+
+- Login
+  
 ![Screenshot 2025-04-11 221041](https://github.com/user-attachments/assets/a9caa54a-859e-4c8d-9d0a-160187cdff99)
 
+- Admin Login
+  
 ![Screenshot 2025-04-11 221029](https://github.com/user-attachments/assets/7cbfa0ac-c5b5-4b85-ba0e-d569b26ae8e5)
 
+- Store Books
+  
 ![Screenshot 2025-04-11 221059](https://github.com/user-attachments/assets/59485e53-d681-4d41-9e2d-48eb9ef1bde4)
 
+- Add Books
+  
 ![Screenshot 2025-04-11 221115](https://github.com/user-attachments/assets/30610cfb-87aa-40a0-8d5d-5ad48fdd71d8)
 
+- Remove Books
+  
 ![Screenshot 2025-04-11 221127](https://github.com/user-attachments/assets/52f22590-d5e9-470d-9f88-c84bacf6e278)
 
-
+---
 
 ## ================ 💻 Software And Tools Required ================
 - : Java JDK 8+ 
