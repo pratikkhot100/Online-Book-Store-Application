@@ -42,11 +42,28 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 3. Database:
 - MySql
 
-### ================ Software And Tools Required ================
+## Screenshot:-
+
+## ================ Software And Tools Required ================
 - : Java JDK 8+ 
 - : Eclipse EE (Enterprise Edition) 
 - : Apache Maven 
 - : Tomcat v8.0+
 - : MySQL Server 
 - : MySQL Workbench
-  
+
+## ================= MySQL Database =================
+
+ STEP 1: Open MySQL Command Prompt or MySQL Workbench
+
+ STEP 2: Login to the administrator user of MySql:
+	 ```mysql -u <username> -p``` (Enter Password if asked)
+
+ STEP 3: Copy paste and execute the MySQL Query from the following file:-
+ - Run the Sql Query From this file: [MySQL Database](https://github.com/pratikkhot100/Online-Food_Application/blob/main/mysql_database.sql) 
+
+---
+
+##  Project 
+
+- [Pratik Khot](https://github.com/pratikkhot100) 
