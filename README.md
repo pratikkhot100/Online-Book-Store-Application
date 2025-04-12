@@ -1,4 +1,4 @@
-# 📚 Online-Book-Store-Application
+# 📚 Online-Book-Store-Website
 
 The Online Book Store Application is a Java-based web platform designed to solve the real-world problem of limited access to physical bookstores and the time-consuming process of book shopping. It provides users with a convenient way to browse, search, and purchase books online, making reading more accessible and efficient. This system addresses the need for 24/7 book availability, easy discovery of titles, and a smooth buying experience from anywhere this is a Java-based web application that allows users to browse, search, and purchase books online. It includes user registration/login, book listings, shopping cart functionality, and order management. Admins can manage inventory and handle orders through a dedicated admin panel. The project aims to provide an easy and efficient way to buy and sell books online.
 
