@@ -52,6 +52,8 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 ## Screenshot:-
 
+---
+
 ## ================ Software And Tools Required ================
 - : Java JDK 8+ 
 - : Eclipse EE (Enterprise Edition) 
