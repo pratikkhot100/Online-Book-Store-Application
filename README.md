@@ -37,6 +37,8 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - Buy Books.
 - Get Payment Receipt.
 
+--- 
+
 ### 🛠️ Technologies used:-
 1. Front-End Development:
 - HTML
